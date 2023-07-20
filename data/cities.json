@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Najibabad",
+      "country": "India",
+      "countryCode": "IN",
+      "date": "2023-07-19T20:09:16.569Z",
+      "notes": "Hometown",
+      "position": {
+        "lat": "29.601157465946642",
+        "lng": "78.3380126953125"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Tilhar",
+      "country": "India",
+      "countryCode": "IN",
+      "date": "2023-07-19T20:09:30.926Z",
+      "notes": "HomeTown",
+      "position": {
+        "lat": "27.959770504018884",
+        "lng": "79.75215911865236"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Byas",
+      "country": "Nepal",
+      "countryCode": "NP",
+      "date": "2023-07-19T20:09:53.828Z",
+      "notes": "",
+      "position": {
+        "lat": "27.95224147929656",
+        "lng": "84.35302734375001"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Bilma",
+      "country": "Niger (the)",
+      "countryCode": "NE",
+      "date": "2023-07-19T20:10:04.514Z",
+      "notes": "",
+      "position": {
+        "lat": "22.216118300694585",
+        "lng": "11.964111328125002"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Tchirozerine",
+      "country": "Niger (the)",
+      "countryCode": "NE",
+      "date": "2023-07-19T20:11:18.392Z",
+      "notes": "",
+      "position": {
+        "lat": "17.627742215567437",
+        "lng": "10.72265625"
+      },
+      "id": 5
+    }
+  ]
+}
